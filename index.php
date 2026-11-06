@@ -1,6 +1,7 @@
 <?php
 
-echo "git commit A V";
+echo "git commit A";
 
 echo "git commit B ";
 
+echo "git commit C";
