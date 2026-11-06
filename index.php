@@ -1,5 +1,7 @@
 <?php
 
-echo "Bu boshlang'ich sahifa kodlari ";
+echo "Bu boshlang'ich sahifa kodlari "; // A
 
-echo "Bu git B uchun";
+echo "Bu git B uchun"; // B
+
+echo "Bu git C uchun"; // C
